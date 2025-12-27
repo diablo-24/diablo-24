@@ -1,4 +1,5 @@
 ## Hi there 👋
+You have stumbled across this humble embedded developer's profile. See the repositories tab to take a look at my cool projects.
 
 <!--
 **diablo-24/diablo-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- my-badges start -->
+<!-- my-badges end -->
