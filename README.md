@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- my-badges start -->
+<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;introduction&quot;." title="My favorite word is &quot;introduction&quot;." width="64"></a>
+<a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <!-- my-badges end -->
